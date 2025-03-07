@@ -3,8 +3,7 @@
 ## Introduction
 This method enables automatic suggestions for Artisan commands when using [Cmder](https://cmder.net/) with Clink support, making Laravel project management easier.
 
-![Autocomplete Example](https://via.placeholder.com/600x200?text=artisan+make:+controller,+model,+etc...)
-![Autocomplete Example](https://github.com/Mostafa7Ahmad/autocomplete_artisan/blob/master/screenshots/example.jpg?raw=true)
+![Autocomplete Example](https://raw.githubusercontent.com/Mostafa7Ahmad/autocomplete_artisan/refs/heads/main/screenshots/example.jpg)
 
 ## Requirements
 - [Cmder](https://cmder.net/) (Full version with Clink)
